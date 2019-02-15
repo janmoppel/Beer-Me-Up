@@ -1,5 +1,7 @@
 # Beer Me Up
 
+[![Codemagic build status](http://localhost:5000/apps/5c5d73d5022f01000b546c61/5c5d73d5022f01000b546c60/status_badge.svg)](http://localhost:3000/apps/5c5d73d5022f01000b546c61/5c5d73d5022f01000b546c60/latest_build)
+
 Beer Me Up is an iOS and Android app build with Flutter. 
 
 The app is a personal beer logging that allows you to enter every beer you have to be sure to remember them forever.
